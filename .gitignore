@@ -1,0 +1,5 @@
+/tests/browser/report.html
+/tests/browser/output.xml
+/tests/browser/log.html
+.idea/*
+*.DS_Store
