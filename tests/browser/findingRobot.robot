@@ -1,7 +1,7 @@
 *** Settings ***
 Library    SeleniumLibrary
-Suite Setup     Open Browser    http://www.google.com    Chrome
-Test Setup      Input Text    id=APjFqb    robot
+Suite Setup     Open Browser    https://th.search.yahoo.com/    Chrome
+Test Setup      Input Text    id=yschsp    robot
 Test Teardown   Go To  http://www.google.com
 Suite Teardown  Close Browser
 
